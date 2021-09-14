@@ -9,7 +9,7 @@
 - Your About Information
 - Change your Profile Picture
 - Your Local Time Zone
-- Your Chosen 'First Dat Of The Week'
+- Your Chosen 'First Day Of The Week'
 - Light or Dark Mode for your Booking Page
 - Enabling or Disabling Calendso Branding on your Booking Page
 
