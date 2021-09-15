@@ -4,7 +4,7 @@ Event types allow you to create different events for different occasions when bo
 
 ## Creating an event type
 
-1. Go to [Your Event Types](https://app.calendso.com/event-types).
+1. Go to [Your Event Types](https://app.cal.com/event-types).
 2. Click the button at the top right of your screen saying '+ New Event Type'.
 3. Create the Title of your new event.
 4. Confirm the auto-generated event type URL.
@@ -15,7 +15,7 @@ Event types allow you to create different events for different occasions when bo
 
 ## Editing an event type
 
-1. Go to [Your Event Types](https://app.calendso.com/event-types).
+1. Go to [Your Event Types](https://app.cal.com/event-types).
 2. Click anywhere within the box of the event you would like to edit.  
    (From here you can edit the basic settings of your Event)
 3. To get the advanced options, at the bottom of your event setting click 'Show Advanced Settings'
@@ -24,6 +24,6 @@ Event types allow you to create different events for different occasions when bo
 
 ## Delete an event type
 
-1. Go to [Your Event Types](https://app.calendso.com/event-types).
+1. Go to [Your Event Types](https://app.cal.com/event-types).
 2. Click anywhere within the box of the event, just like you would if you were editing the event.
 3. From this page, just to the right, a button saying 'delete' will appear. Click this and your event will be deleted!

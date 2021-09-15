@@ -2,7 +2,7 @@
 
 ## Setting up or making changes to your Profile
 
-1. Go to your [Profile Settings](https://app.calendso.com/settings/profile).
+1. Go to your [Profile Settings](https://app.cal.com/settings/profile).
 2. From this page you are able to edit the following:
 - Your URL Username
 - Your Dispaly Name

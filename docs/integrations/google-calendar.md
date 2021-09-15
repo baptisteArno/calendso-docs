@@ -5,7 +5,7 @@ sidebar_position: 1
 # Google Calendar
 The Google Calendar integration checks for availability in your Google Calendars and creates bookings for you.
 
-## Removing Permissions for Calendso to access your Google Account
+## Removing Permissions for Cal to access your Google Account
 
 1. Go to your [Google Account](https://myaccount.google.com/).
 2. On the left, click Data & privacy.

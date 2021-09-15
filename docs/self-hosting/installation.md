@@ -8,7 +8,7 @@ To get a local copy up and running, please follow these simple steps.
 
 ## Prerequisites
 
-Here is what you need to be able to run Calendso.
+Here is what you need to be able to run Cal.
 
 - Node.js
 - PostgreSQL

@@ -6,21 +6,21 @@ import Link from '@docusaurus/Link';
 const CategoryList = [
   {
     link: '/docs/self-hosting/installation',
-    title: 'Installing Calendso',
+    title: 'Installing Cal',
     Svg: require('../../static/img/categories/text.svg').default,
     description: (
       <>
-        Learn how to get set up with your own self-hosted instance of Calendso.
+        Learn how to get set up with your own self-hosted instance of Cal.
       </>
     ),
   },
   {
     link: '/docs/self-hosting/upgrading',
-    title: 'Upgrading Calendso',
+    title: 'Upgrading Cal',
     Svg: require('../../static/img/categories/download.svg').default,
     description: (
       <>
-        How to update your self-hosted Calendso installation to the latest version.
+        How to update your self-hosted Cal installation to the latest version.
       </>
     ),
   },
@@ -30,7 +30,7 @@ const CategoryList = [
     Svg: require('../../static/img/categories/docker.svg').default,
     description: (
       <>
-        How to use our unofficial Docker image to deploy Calendso quickly and easily.
+        How to use our unofficial Docker image to deploy Cal quickly and easily.
       </>
     ),
   },
