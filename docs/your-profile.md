@@ -5,7 +5,7 @@
 1. Go to your [Profile Settings](https://app.cal.com/settings/profile).
 2. From this page you are able to edit the following:
 - Your URL Username
-- Your Dispaly Name
+- Your Display Name
 - Your About Information
 - Change your Profile Picture
 - Your Local Time Zone
