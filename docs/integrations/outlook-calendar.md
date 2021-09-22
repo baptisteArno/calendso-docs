@@ -13,9 +13,9 @@ The Outlook integration enables you to use your outlook.com or Microsoft 365 acc
 5. Use **Application (client) ID** as the **MS_GRAPH_CLIENT_ID** attribute value in .env
 6. Click **Certificates & secrets** create a new client secret and use the value as the **MS_GRAPH_CLIENT_SECRET** attribute
 
-## Removing Permissions for Calendso to access your Microsoft Workplace Account
+## Removing Permissions for Cal to access your Microsoft Workplace Account
 
-Hover over Calendso in the My Apps portal, then select Manage your application
+Hover over Cal in the My Apps portal, then select Manage your application
 
 The top part of permissions window shows what you personally consented to. Examples of apps permissions include the ability to access your calendar, contacts, or camera.
 
