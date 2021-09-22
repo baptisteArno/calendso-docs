@@ -3,7 +3,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Calendso Documentation',
+  title: 'Cal.com Documentation',
   tagline: 'Dinosaurs are cool',
   url: 'https://docs.calendso.com',
   baseUrl: '/',
@@ -15,7 +15,7 @@ module.exports = {
   themeConfig: {
     navbar: {
       logo: {
-        alt: 'Calendso Logo',
+        alt: 'Cal.com Logo',
         src: 'img/logo.svg',
         srcDark: 'img/logo-white.svg'
       },
