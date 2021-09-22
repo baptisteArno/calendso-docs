@@ -22,7 +22,7 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'event-types',
+          docId: 'self-hosting/installation',
           position: 'left',
           label: 'Product Docs',
         },

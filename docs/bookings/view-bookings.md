@@ -1,4 +1,4 @@
-# Bookings
+# View bookings
 
 ## What can you do on the bookings page?
 On the bookings page you are able to see upcoming and past events booked through your event type links. This page also lets you cancel or reschedule upcoming events users have scheduled.

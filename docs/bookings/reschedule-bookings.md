@@ -1,9 +1,4 @@
-# Bookings
-
-## What can you do on the bookings page?
-On the bookings page you are able to see upcoming and past events booked through your event type links. This page also lets you cancel or reschedule upcoming events users have scheduled.
-
-## How to reschedule a booking
+# Reschedule bookings
 
 1. Go to [Your Bookings](https://app.cal.com/bookings).
 2. Hovering over the event you want to reschedule, click the button saying 'Reschedule'

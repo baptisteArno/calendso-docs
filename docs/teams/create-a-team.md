@@ -1,6 +1,4 @@
-# Managing Teams
-
-## How to create a team
+# Creating teams
 1. Go to [Your Teams Settings](https://app.cal.com/settings/teams).
 2. Press the button displayed on your screen called 'Create a Team'
 3. Enter the name you wish to call your team.

@@ -1,6 +1,4 @@
-# Manage Intergrations
-
-## How to connect your calendars
+# Connecting new calendars
 
 1. Go to the [Cal App Store](https://app.cal.com/integrations).
 2. Located at the top right of the screen, press the button saying '+ Connect A New App'

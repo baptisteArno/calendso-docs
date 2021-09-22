@@ -1,6 +1,4 @@
-# Manage Intergrations
-
-## Selecting specific calendars
+# Selecting specific calendars
 
 1. Go to the [Cal App Store](https://app.cal.com/integrations).
 2.  Go to the box that says 'Select Calendars' and press this button.

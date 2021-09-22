@@ -1,8 +1,4 @@
-# Event Types
-
-Event types allow you to create different events for different occasions when booking a time with you in your calendar. These can be named differently, have different time durations and the choice of platform can change.
-
-## Editing an event type
+# Editing event types
 
 1. Go to [Your Event Types](https://app.cal.com/event-types).
 2. Click anywhere within the box of the event you would like to edit.  

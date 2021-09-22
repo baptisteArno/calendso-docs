@@ -1,4 +1,4 @@
-# Event Types
+# Creating event types
 
 Event types allow you to create different events for different occasions when booking a time with you in your calendar. These can be named differently, have different time durations and the choice of platform can change.
 

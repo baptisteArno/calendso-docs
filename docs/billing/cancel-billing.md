@@ -1,6 +1,4 @@
-# Billing
-
-## How to cancel your Pro Billing subscription
+# Cancel your subscription
 
 1. Go to your [Billing Settings](https://app.cal.com/settings/billing).
 2. On this page, enter your email address which was used to purhcase your Pro Cal Subscription.
