@@ -12,5 +12,4 @@
 - Your Chosen 'First Day Of The Week'
 - Light or Dark Mode for your Booking Page
 - Enabling or Disabling Calendso Branding on your Booking Page
-
 3. Once you have completed all your changes, press that 'save' button located at the bottom right of your page.

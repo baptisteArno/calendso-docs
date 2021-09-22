@@ -1,4 +1,4 @@
-# Troubleshooting Availability
+# Troubleshooting
 
 ## What does troubleshooting availability do?
 
