@@ -14,7 +14,7 @@ Here is what you need to be able to run Cal.
 - PostgreSQL
 - Yarn _(recommended)_
 
-You will also need Google API credentials. You can get this from the [Google API Console](https://console.cloud.google.com/apis/dashboard). More details on this can be found below under the [Obtaining the Google API Credentials section](https://docs.cal.com/docs/integrations/google-calendar#obtaining-the-google-api-credentials).
+You will also need Google API credentials. You can get this from the [Google API Console](https://console.cloud.google.com/apis/dashboard). More details on this can be found below under the [Obtaining the Google API Credentials section](/docs/integrations/google-calendar#obtaining-the-google-api-credentials).
 
 ## Development Setup
 1. Clone the repo
