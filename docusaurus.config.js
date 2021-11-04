@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Cal.com Documentation',
   tagline: 'Dinosaurs are cool',
-  url: 'https://docs.calendso.com',
+  url: 'https://docs.cal.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -26,9 +26,8 @@ module.exports = {
           position: 'left',
           label: 'Product Docs',
         },
-        {href: 'https://developer.calendso.com', label: 'Developer', position: 'left'},
-        {href: 'https://design.calendso.com', label: 'Design', position: 'left'},
-        {href: 'https://developer.calendso.com/api', label: 'API', position: 'left'},
+        {href: 'https://developer.cal.com', label: 'Developer', position: 'left'},
+        {href: 'https://design.cal.com', label: 'Design', position: 'left'},
         {
           href: 'https://github.com/calendso/calendso',
           label: 'GitHub',
@@ -40,19 +39,19 @@ module.exports = {
       style: 'light',
       links: [
         {
-          title: 'Calendso',
+          title: 'Cal.com',
           items: [
             {
               label: 'Website',
-              href: 'https://calendso.com',
+              href: 'https://cal.com',
             },
             {
               label: 'Slack',
-              href: 'https://calendso.com/slack',
+              href: 'https://cal.com/slack',
             },
             {
               label: 'Careers',
-              href: 'https://calendso.com/jobs',
+              href: 'https://cal.com/jobs',
             },
           ],
         },
@@ -60,7 +59,7 @@ module.exports = {
           title: 'Repositories',
           items: [
             {
-              label: 'Calendso',
+              label: 'Cal.com',
               href: 'https://github.com/calendso/calendso',
             },
             {
