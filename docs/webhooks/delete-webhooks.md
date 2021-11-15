@@ -1,4 +1,4 @@
-# Webhooks
+# Delete Webhooks
 
 ## Delete an exisiting Webhook
 

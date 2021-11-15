@@ -1,4 +1,4 @@
-# Webhooks
+# Edit Webhooks
 
 ## Edit an exisiting Webhook
 
