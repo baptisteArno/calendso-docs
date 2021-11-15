@@ -16,4 +16,3 @@ This stripe integration has now successfully been added.
 3. A confirmation pop up box will appear, to confirm press the button saying 'Yes, disconnect integration'.
 
 This stripe integration has now successfully been disconnected.
-
