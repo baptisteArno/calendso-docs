@@ -34,7 +34,7 @@ We only need the ability to create meetings, so when somebody books an event wit
 7. Click "Create".
 8. Now copy the Client ID and Client Secret to your .env file into the `ZOOM_CLIENT_ID` and `ZOOM_CLIENT_SECRET` fields.
 9. Set the Redirect URL for OAuth `<CALENDSO URL>/api/integrations/zoomvideo/callback` replacing CALENDSO URL with the URI at which your application runs.
-10. Also add the redirect URL given above as a whitelist URL and enable "Subdomain check". Make sure, it says "saved" below the form.
+10. Also add the redirect URL given above as an allowlist URL and enable "Subdomain check". Make sure it says "saved" below the form.
 11. You don't need to provide basic information about your app. Instead click at "Scopes" and then at "+ Add Scopes". On the left, click the category "Meeting" and check the scope `meeting:write`.
 12. Click "Done".
 13. You're good to go. Now you can easily add your Zoom integration in the Cal settings.
